@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @drewcap
-- 👀 I’m interested in applied statistics, machine learning, and consumer behavior research.
-- 💞️ I’m looking to collaborate on projects in brand authenticity, consumer trust, and branding. 
+- 👀 I’m interested in statistics, consumer behavior, and user research. 
 - 📫 You can reach me at mailto:drew.capuano@gmail.com or http://drewcapuano.com
 
 <!---
